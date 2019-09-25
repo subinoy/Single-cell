@@ -1,3 +1,5 @@
+# Author: Subinoy Biswas
+
 ## Load Seurat library
 library(Seurat)
 ## Load other libraries needed fr Seurat
